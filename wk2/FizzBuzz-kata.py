@@ -1,6 +1,6 @@
 # The Fizzbuzzkataunittest.py file should be able to achieve the following tests:
-    # Get “1” when I pass in 1
-    # Get “2” when I pass in 2
+    # Get “1” when I pass in 1 - this just happens, no code needed
+    # Get “2” when I pass in 2 - this just happens, no code needed
     # Get “Fizz” when I pass in 3
     # Get “Buzz” when I pass in 5
     # Get “Fizz” when I pass in 6 (a multiple of 3)
